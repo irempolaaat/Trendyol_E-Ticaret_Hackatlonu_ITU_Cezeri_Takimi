@@ -12,15 +12,15 @@ Bu repo, İTÜ Cezeri Takımı olarak katıldığımız **Trendyol E-Ticaret Hac
 - `polars` kütüphanesi sayesinde hızlı ve bellek dostu veri işleme yapılmıştır.
 - Tablo birleştirme (join), özellik seçimi ve eksik değer işlemleri gerçekleştirilmiştir.
 - **Kategori düzenlemeleri:** 
-  - Bazı kategoriler önemli olduğu **direkt eklenmiştir**.
-    - ordered
-      clicked
-      added_to_cart
-      added_to_fav
-      attribute_type_count
-      total_attribute_option_count
-      merchant_count
-      filterable_label_count
+ - Bazı kategoriler önemli olduğu **direkt eklenmiştir**.
+   - ordered
+     clicked
+     added_to_cart
+     added_to_fav
+     attribute_type_count
+     total_attribute_option_count
+     merchant_count
+     filterable_label_count
 
 - Veri dağılımında bazı kategoriler **birleştirilmiş ve yeniden oluşturulmuştur**.
    - "content_price_data_avg_content_review_count", "content_price_data_avg_content_review_wth_media_count","content_price_data_avg_content_rate_count", "content_price_data_avg_content_rate_avg", "max_price",         "min_price", "discount_rate", "total_rate_score","media_review_ratio", "attribute_type_count", "total_attribute_option_count", "merchant_count", "filterable_label_count","user_age", "user_tenure_in_years",
