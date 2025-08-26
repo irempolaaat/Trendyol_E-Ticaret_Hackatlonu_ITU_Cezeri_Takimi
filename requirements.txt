@@ -1,0 +1,6 @@
+polars
+pyarrow
+lightgbm
+nbformat
+nbclient
+nbconvert
