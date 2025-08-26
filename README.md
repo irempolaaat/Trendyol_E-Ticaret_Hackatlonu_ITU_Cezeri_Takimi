@@ -12,7 +12,7 @@ Bu repo, İTÜ Cezeri Takımı olarak katıldığımız **Trendyol E-Ticaret Hac
 - `polars` kütüphanesi sayesinde hızlı ve bellek dostu veri işleme yapılmıştır.
 - Tablo birleştirme (join), özellik seçimi ve eksik değer işlemleri gerçekleştirilmiştir.
 - **Kategori düzenlemeleri:** 
- - Bazı kategoriler önemli olduğu **direkt eklenmiştir**.
+ - Bazı kategoriler önemli olduğu için **direkt eklenmiştir**.
    - ordered
      clicked
      added_to_cart
