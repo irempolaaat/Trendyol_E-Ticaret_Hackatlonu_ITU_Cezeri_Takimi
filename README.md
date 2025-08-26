@@ -13,7 +13,7 @@ Bu repo, İTÜ Cezeri Takımı olarak katıldığımız **Trendyol E-Ticaret Hac
 - Tablo birleştirme (join), özellik seçimi ve eksik değer işlemleri gerçekleştirilmiştir.
 - **Kategori düzenlemeleri:** 
   - Bazı kategoriler önemli olduğu **direkt eklenmiştir**.
-      ordered
+    - ordered
       clicked
       added_to_cart
       added_to_fav
