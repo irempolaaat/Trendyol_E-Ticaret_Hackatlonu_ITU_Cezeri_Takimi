@@ -1,10 +1,10 @@
-# 📊 İTÜ Cezeri Takımı – Trendyol E-Ticaret Hackathon 2025
+# İTÜ Cezeri Takımı – Trendyol E-Ticaret Hackathon 2025
 
 Bu repo, İTÜ Cezeri Takımı olarak katıldığımız **Trendyol E-Ticaret Hackathon 2025** yarışması kapsamında geliştirdiğimiz çözüm pipeline’ını içermektedir. Çözüm, uçtan uca veri hazırlama, model eğitimi ve tahminleme adımlarını kapsamaktadır.
 
 ---
 
-## 🚀 Pipeline Aşamaları
+## Pipeline Aşamaları
 
 ### 1. Veri Hazırlama (Data Preparation)
 - **Kullanılan kütüphaneler:** `polars`, `gc`
@@ -54,7 +54,7 @@ Bu repo, İTÜ Cezeri Takımı olarak katıldığımız **Trendyol E-Ticaret Hac
 
 ---
 
-## ⚙️ Ortam (Environment)
+## Ortam (Environment)
 Kullanılan başlıca bağımlılıklar:
 - `polars`
 - `lightgbm`
@@ -65,7 +65,7 @@ Bağımlılıklar `requirements.txt` ve `environment.yml` dosyalarıyla paylaş�
 
 ---
 
-## ▶️ Çalıştırma Talimatı
+## Çalıştırma Talimatı
 
 1. Ortam kurulumu:
    ```bash
