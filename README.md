@@ -39,7 +39,7 @@ Bu repo, İTÜ Cezeri Takımı olarak katıldığımız **Trendyol E-Ticaret Hac
 - `LightGBM` seçilme nedeni:
   - Büyük veri setlerinde yüksek hız ve verimlilik,
   - Otomatik özellik seçimi.
-- Parametre ayarları (`num_leaves`, `learning_rate`, `n_estimators`, 'feature_fraction', 'bagging_fraction', 'max_depth', 'lambda_l1', 'lambda_l2', 'min_split_gain', 'min_child_weight') optimize edilmiştir.
+- Parametre ayarları (`num_leaves`, `learning_rate`, `n_estimators`, `feature_fraction`, `bagging_fraction`, `max_depth`, `lambda_l1`, `lambda_l2`, `min_split_gain`, `min_child_weight`) optimize edilmiştir.
 - Ordered, clicked, added_to_cart, added_to_fav için birer kez olmak koşuluyla dört model eğitilmiş ve belirtilen ağırlıklar(weights) ile modelin tahmin çıktısı oluşturulmuştur.
 
 
